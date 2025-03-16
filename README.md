@@ -1,29 +1,32 @@
-🪙 Crypto Hunter 🚀
-Crypto Hunter is a cryptocurrency tracking web app built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It fetches real-time exchange data using APIs and displays rankings.
+# Crypto Hunter 🚀
 
-🏗️ Tech Stack
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB (if used)
-API: External crypto market API
-🚀 Installation
-Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/your-username/crypto-hunter.git
-cd crypto-hunter
-Backend Setup
-sh
-Copy
-Edit
-cd backend
-npm install
-npm start
-Frontend Setup
-sh
-Copy
-Edit
-cd frontend
-npm install
-npm start
+## 🏡 Home Page :
+
+![Screenshot 2025-03-16 193954](https://github.com/user-attachments/assets/4735f052-57fe-4ce2-a4b4-78e1ef325313)
+
+In this Home Page, We have multiple crypto currency available with name,price & rank.
+
+## 💰 Coins Page :
+
+![Screenshot 2025-03-16 194013](https://github.com/user-attachments/assets/6e312048-b637-415c-ad71-7c0a28713694)
+
+In coins page, we have multiple crypto currency with their current value change ranking wise.
+
+## 🔍 Searching Feature :
+
+![Screenshot 2025-03-16 194050](https://github.com/user-attachments/assets/f20f3304-694a-4623-bb0c-dfbdbb8cd8be)
+
+We can also search for any specific coins or crypto currency.
+
+## 📜 Detailed Analysis :
+
+![Screenshot 2025-03-16 194112](https://github.com/user-attachments/assets/dc56c388-d8eb-49c8-a722-4fa5b4f4b996)
+
+After clicking on any coins, we can see detailed analysis of that coin in INR/USD with timeline based realtime graph.
+
+## ⚙️ Tech Stack :
+
+🎨 Frontend: React.js
+🖥️ Backend: Node.js, Express.js
+🗄️ Database: MongoDB (if used)
+🔗 API: External crypto market API
