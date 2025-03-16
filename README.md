@@ -26,7 +26,7 @@ After clicking on any coins, we can see detailed analysis of that coin in INR/US
 
 ## ⚙️ Tech Stack :
 
-🎨 Frontend: React.js
-🖥️ Backend: Node.js, Express.js
-🗄️ Database: MongoDB (if used)
+🎨 Frontend: React.js <br>
+🖥️ Backend: Node.js, Express.js <br>
+🗄️ Database: MongoDB (if used) <br>
 🔗 API: External crypto market API
